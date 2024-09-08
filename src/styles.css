@@ -1,4 +1,4 @@
-.App {
+/* .App {
     font-family: Arial, sans-serif;
     text-align: center;
   }
@@ -20,4 +20,37 @@
   
   .project-item {
     margin-bottom: 15px;
+  } */
+
+  /* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  a:hover {
+    color: #61dafb;
+  }
+  
+  /* App Specific Styles */
+  .App {
+    text-align: center;
   }
