@@ -1,0 +1,23 @@
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  .about-me, .projects {
+    padding: 20px;
+  }
+  
+  .about-me h2, .projects h2 {
+    color: #61dafb;
+  }
+  
+  .project-item {
+    margin-bottom: 15px;
+  }
